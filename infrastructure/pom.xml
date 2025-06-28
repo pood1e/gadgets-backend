@@ -14,5 +14,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>auth</module>
+        <module>config</module>
     </modules>
 </project>

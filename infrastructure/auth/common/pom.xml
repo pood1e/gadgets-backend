@@ -11,5 +11,6 @@
 
     <groupId>me.pood1e.gadgets.infrastructure.auth</groupId>
     <artifactId>common</artifactId>
+    <name>auth-common</name>
 
 </project>
