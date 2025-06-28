@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>business</module>
+        <module>infrastructure</module>
+        <module>server-starter</module>
     </modules>
 
     <dependencyManagement>
